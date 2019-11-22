@@ -1,6 +1,5 @@
 import gspread
 import datetime
-from host import Host
 from oauth2client.service_account import ServiceAccountCredentials
 
 class GoogleSheet:
