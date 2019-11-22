@@ -2,7 +2,6 @@ import sched
 import time
 import network
 from googlesheet import GoogleSheet
-from host import Host
 import os.path
 from os import path
 
